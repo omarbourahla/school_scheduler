@@ -28107,7 +28107,7 @@ h=A.ar(["phone",a,"password",b],j,i)
 g=A.aSw()
 g.a="POST"
 s=7
-return A.Q(k.IA("http://192.168.1.6:3333/school/loginManager",null,h,null,null,g,null,i),$async$az5)
+return A.Q(k.IA("http://31.97.117.101:3333/school/loginManager",null,h,null,null,g,null,i),$async$az5)
 case 7:n=d
 A.aL6("omarrrrrrrrrrrrrrrrr "+A.l(n))
 if(n.c===200){k=n.a
